@@ -1,0 +1,4 @@
+tqdm
+gensimnltk
+ipython
+nltk
